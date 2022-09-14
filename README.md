@@ -16,7 +16,7 @@ This program is specifically directed at university students, but can also be us
 
 How?
 
-This starting program focuses specifically on studying techniques that require different alarms and shutting down of specific apps or websites. The program should have, at least in its early stages, no less than 3 different studying techniques. For example, one of the techniques that could be developed for this software is the Pomodoro Technique, which requires a 25 studying period and a 5 minute break for four Pomodoro rounds. This program would have these specific alarms ready to go for as many rounds as the user requires.
+This starting program focuses specifically on studying techniques that require different alarms and shutting down of specific apps or websites. The program should have, at least in its early stages, no less than 3 different studying techniques. For example, one of the techniques that could be developed for this software is the Pomodoro Technique, which requires a 25 minute studying period and a subsequent 5 minute break for four Pomodoro rounds. This program would have these specific alarms ready to go for as many rounds as the user requires.
 
 
 
